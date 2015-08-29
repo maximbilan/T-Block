@@ -13,9 +13,11 @@ First version looked so:
 
 ![alt tag](https://raw.github.com/maximbilan/tblock/master/img/screenshot1.png)
 
-Some statistics from Google Play and iTunes App Store:
+Some statistics from Google Play:
 
 ![alt tag](https://raw.github.com/maximbilan/tblock/master/img/stats_android.png)
+
+and iTunes App Store:
 
 ![alt tag](https://raw.github.com/maximbilan/tblock/master/img/stats_ios.png)
 
@@ -23,4 +25,4 @@ I was pleased to see on the main page of Android Market:)
 
 ![alt tag](https://raw.github.com/maximbilan/tblock/master/img/screen_on_main_page.png)
 
-
+Powered by <a href="http://www.rtsoft.com/wiki/doku.php?id=proton">Proton SDK</a>, there are a lot of tutorials how to build for different platoforms. I think you will have no difficulties, if you want to build this sources:)
