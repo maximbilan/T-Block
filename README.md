@@ -15,6 +15,6 @@ First version looked so:
 
 Some statistics from Google Play and iTunes App Store:
 
-![alt tag](https://raw.github.com/maximbilan/tblock/master/img/stats-android.png)
+![alt tag](https://raw.github.com/maximbilan/tblock/master/img/stats_android.png)
 
-![alt tag](https://raw.github.com/maximbilan/tblock/master/img/stats-ios.png)
+![alt tag](https://raw.github.com/maximbilan/tblock/master/img/stats_ios.png)
