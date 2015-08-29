@@ -8,3 +8,7 @@ You can found the sources in this repository, and I know, it's shit code, it was
 Look at screenshots:
 
 ![alt tag](https://raw.github.com/maximbilan/tblock/master/img/screenshot.png)
+
+First version looked so:
+
+![alt tag](https://raw.github.com/maximbilan/tblock/master/img/screenshot1.png)
