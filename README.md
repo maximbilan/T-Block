@@ -12,3 +12,9 @@ Look at screenshots:
 First version looked so:
 
 ![alt tag](https://raw.github.com/maximbilan/tblock/master/img/screenshot1.png)
+
+Some statistics from Google Play and iTunes App Store:
+
+![alt tag](https://raw.github.com/maximbilan/tblock/master/img/stats-android.png)
+
+![alt tag](https://raw.github.com/maximbilan/tblock/master/img/stats-ios.png)
