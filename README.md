@@ -1,7 +1,7 @@
 # T-Block
 
 I think a lot of developers in the beginning of his career were trying to create your Tetris game. And me too. I had a lot of versions, it was written by Pascal language, C#, C++. And I would like to share my last version, it's crossplatform version for mobile platforms: iOS, Android, Blackberry. Due to the violation of the rights I had to remove the versions from the stores
-You can found the sources in this repository, and I know, it's shit code, it was a long time ago:) all code is usually shit:)
+You can found the sources in this repository, and I know, it's shit code, it was a long time ago :) all code is usually shit :)
 
 ![alt tag](https://raw.github.com/maximbilan/tblock/master/img/promo.png)
 
@@ -25,4 +25,4 @@ I was pleased to see on the main page of Android Market:)
 
 ![alt tag](https://raw.github.com/maximbilan/tblock/master/img/screen_on_main_page.png)
 
-Powered by <a href="http://www.rtsoft.com/wiki/doku.php?id=proton">Proton SDK</a>, there are a lot of tutorials how to build for different platoforms. I think you will have no difficulties, if you want to build this sources:)
+Powered by <a href="http://www.rtsoft.com/wiki/doku.php?id=proton">Proton SDK</a>, there are a lot of tutorials how to build for different platforms. I think you will have no difficulties, if you want to build this sources :)
