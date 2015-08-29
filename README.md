@@ -13,6 +13,10 @@ First version looked so:
 
 ![alt tag](https://raw.github.com/maximbilan/tblock/master/img/screenshot1.png)
 
+Also you can also watch video:
+
+https://www.youtube.com/watch?v=cVfp9WaHK3A
+
 Some statistics from Google Play:
 
 ![alt tag](https://raw.github.com/maximbilan/tblock/master/img/stats_android.png)
