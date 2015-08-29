@@ -18,3 +18,7 @@ Some statistics from Google Play and iTunes App Store:
 ![alt tag](https://raw.github.com/maximbilan/tblock/master/img/stats_android.png)
 
 ![alt tag](https://raw.github.com/maximbilan/tblock/master/img/stats_ios.png)
+
+I was pleased to see on the main page of Android Market:
+
+![alt tag](https://raw.github.com/maximbilan/tblock/master/img/screen_on_main_page.png)
