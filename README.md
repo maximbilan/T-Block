@@ -21,7 +21,7 @@ Some statistics from Google Play:
 
 ![alt tag](https://raw.github.com/maximbilan/tblock/master/img/stats_android.png)
 
-and iTunes App Store:
+And iTunes App Store:
 
 ![alt tag](https://raw.github.com/maximbilan/tblock/master/img/stats_ios.png)
 
