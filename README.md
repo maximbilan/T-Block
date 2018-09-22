@@ -9,7 +9,7 @@ Look at screenshots:
 
 ![alt tag](https://raw.github.com/maximbilan/tblock/master/img/screenshot.png)
 
-First version is looked so:
+The first version is looked so:
 
 ![alt tag](https://raw.github.com/maximbilan/tblock/master/img/screenshot1.png)
 
